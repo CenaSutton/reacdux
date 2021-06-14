@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacdux/static/css/main.447535b3.chunk.css",
+    "main.js": "/reacdux/static/js/main.6f30be81.chunk.js",
+    "main.js.map": "/reacdux/static/js/main.6f30be81.chunk.js.map",
+    "runtime-main.js": "/reacdux/static/js/runtime-main.75247fef.js",
+    "runtime-main.js.map": "/reacdux/static/js/runtime-main.75247fef.js.map",
+    "static/js/2.be93588d.chunk.js": "/reacdux/static/js/2.be93588d.chunk.js",
+    "static/js/2.be93588d.chunk.js.map": "/reacdux/static/js/2.be93588d.chunk.js.map",
+    "static/js/3.0e6c18b9.chunk.js": "/reacdux/static/js/3.0e6c18b9.chunk.js",
+    "static/js/3.0e6c18b9.chunk.js.map": "/reacdux/static/js/3.0e6c18b9.chunk.js.map",
+    "index.html": "/reacdux/index.html",
+    "static/css/main.447535b3.chunk.css.map": "/reacdux/static/css/main.447535b3.chunk.css.map",
+    "static/js/2.be93588d.chunk.js.LICENSE.txt": "/reacdux/static/js/2.be93588d.chunk.js.LICENSE.txt",
+    "static/media/man-image.9bc6419e.jpg": "/reacdux/static/media/man-image.9bc6419e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75247fef.js",
+    "static/js/2.be93588d.chunk.js",
+    "static/css/main.447535b3.chunk.css",
+    "static/js/main.6f30be81.chunk.js"
+  ]
+}
